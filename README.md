@@ -1,0 +1,1 @@
+# groupama-dist-version
